@@ -8,6 +8,9 @@ A simple single-page CV project using HTML.
 ## How to Run
 - Open the `index.html` file in your browser.
 
+## Project URL
+- GitHub Repository: [https://github.com/mimine47/Single-Page-CV](https://github.com/mimine47/Single-Page-CV)
+
 ## Contact
-- [My LinkedIn](https://www.linkedin.com/in/mohamed-amine-mammar-el-hadj-715a41295)
-- [My GitHub](https://github.com/mimine47)
+- [Your LinkedIn](https://www.linkedin.com/in/mohamed-amine-mammar-el-hadj-715a41295)
+- [Your GitHub](https://github.com/mimine47)
