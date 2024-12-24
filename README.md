@@ -13,5 +13,5 @@ A simple single-page CV project using HTML.
 - Project Page: [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
 ## Contact
-- [Your LinkedIn](https://www.linkedin.com/in/mohamed-amine-mammar-el-hadj-715a41295)
-- [Your GitHub](https://github.com/mimine47)
+- [my LinkedIn](https://www.linkedin.com/in/mohamed-amine-mammar-el-hadj-715a41295)
+- [my GitHub](https://github.com/mimine47)
